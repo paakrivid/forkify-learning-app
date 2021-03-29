@@ -34,7 +34,7 @@ import icons from 'url:../../img/icons.svg';
 
 // another approach using prototype inhertance instead of creating more child.......found in the qna section----more easy to understand
 
-import View from './view';
+import View from './View';
 export default class PreviewView extends View {
   _generateMarkup() {
     return this._data.map(this._generateMarkupPreview).join();
