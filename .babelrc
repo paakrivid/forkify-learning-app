@@ -1,0 +1,29 @@
+{
+  "plugins": ["@babel/plugin-syntax-class-properties"]
+}
+// {
+//   "plugins": [
+//     "flow",
+//     "jsx",
+//     "estree",
+//     "asyncFunctions",
+//     "asyncGenerators",
+//     "classConstructorCall",
+//     "classProperties",
+//     "decorators",
+//     "doExpressions",
+//     "exponentiationOperator",
+//     "exportExtensions",
+//     "functionBind",
+//     "functionSent",
+//     "objectRestSpread",
+//     "trailingFunctionCommas",
+//     "dynamicImport",
+//     "numericSeparator",
+//     "optionalChaining",
+//     "importMeta",
+//     "classPrivateProperties",
+//     "bigInt",
+//     "optionalCatchBinding"
+//   ]
+// }
